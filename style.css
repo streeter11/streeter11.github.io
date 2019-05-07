@@ -3,9 +3,9 @@ html {
   	width: 100%;
   	height: 100%;
 }
+
 body {
-  	font-family: 'Montserrat', sans-serif;
-  
+  	font-family: 'Montserrat', sans-serif; 
 }
 
 hr {
@@ -28,7 +28,6 @@ hr {
 .heading	{
 	color: rgba(255, 255, 255, 0.9);
 	font-size: 1.3em; 
-
 }
 
 .button		{
@@ -36,9 +35,8 @@ hr {
 	transition: all 1s;
 	justify-content: center;
 	border-radius: 10px;
-
 }
 
 .button:hover	{
-	transform: scale(1.3);
+	transform: scale(1.2);
 }
